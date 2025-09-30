@@ -8,11 +8,10 @@
 ### 🌱 About Me
 
 - 🧑‍💻 I’m currently learning **advanced TypeScript techniques.**
-- 🔗 Check out my [portfolio](https://www.mezozsolt.hu/portfolio) to see all of my published projects.
-- 📝 I regularly share insights on my [blog](https://www.mezozsolt.hu/blog).
+- 🔗 Check out my [portfolio](https://www.mezozsolt.hu) to see all of my published projects.
 - 💬 Feel free to ask me about **optimizing frontend performance.**
 - 📫 You can reach me at **info@mezozsolt.hu**
-- 📄 Learn more about my experiences [here](https://www.mezozsolt.hu/rolam).
+- 📄 Learn more about my experiences [here](https://www.mezozsolt.hu).
 
 ---
 
