@@ -150,7 +150,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-    <a href="https://dev.to/mezozsolt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mezozsolt" height="30" width="40" title="Dev.to" /></a>
+    <a href="https://dev.to/mezozsolt" target="blank"><img align="center" src="https://www.svgrepo.com/show/333521/dev-to.svg" alt="mezozsolt" height="30" width="40" title="Dev.to" /></a>
     <a href="https://linkedin.com/in/zsolt-mezo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zsolt-mezo" height="30" width="40" title="LinkedIn" /></a>
     <a href="https://stackoverflow.com/users/16992289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16992289" height="30" width="40" title="Stack Overflow" /></a>
     <a href="https://www.hackerrank.com/mezozsolt02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mezozsolt02" height="30" width="40" title="HackerRank" /></a>
